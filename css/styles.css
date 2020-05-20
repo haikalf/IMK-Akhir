@@ -1,0 +1,123 @@
+html{
+    scroll-behavior: smooth;
+}
+body {
+    text-align: center;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #faf2f2;
+}
+#title{
+    background-image: url("../img/top-bg.jpg");
+    text-align: center;
+    background-size: cover;
+}
+.navbar{
+    padding-bottom: 1000px;
+}
+.navbar-brand{
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-bottom: 0;
+    line-height: 2;
+}
+.navbar-brand span{
+    margin-left: 5px;
+    font-weight: bold;
+    color: black;
+}
+.navbar a {
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+}
+.nav-link{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+.jumbotron{
+    background-image: url("../img/top-bg.png");
+    height: 750px;
+    margin: auto;
+    background-size: cover;
+    text-align: center;
+}
+.logo {
+    width: 400px; 
+    height: 350px;
+    margin-right: 20px;
+    margin-top: 20px;
+ }
+
+.intro {
+     margin-top: 10px;
+     font-weight: bold;
+ }
+#promo{
+    padding-top: 20px;
+    background-color: #0a0a0a;
+    color: white;
+}
+#promo img{
+    width: 500px;
+}
+.promo-info{
+    text-align: right;
+}
+#best{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #faf2f2;
+ }
+#best img{
+    width: 540px;
+    height: 380px;
+}
+.best{
+    padding-top: 50px;
+}
+#menu {
+    overflow: hidden;
+    text-align: center;
+    background-color: #faf2f2;
+    padding-top: 20px;
+    font-size: 20px;
+    margin: 0 10% 0;
+}
+.card{
+    text-align: center;
+    margin: 10px 0 10px;
+    background-color: transparent;
+}
+#about{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #faf2f2;
+ }
+#about img{
+    width: 300px; 
+    height: 250px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+#bottomNav{
+    background-color: #faf2f2;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Varela Round', sans-serif;
+}
+.social{
+    color: black;
+}
+.social a{
+    height: 50px;
+}
+.social img{
+    padding: 5px;
+    margin: 10px;
+    height: 50px;
+}
+
+h1{
+    font-family: 'Varela Round', sans-serif;
+}
